@@ -12,152 +12,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="514d741d-0d95-444b-a440-a2021dc94a7a" name="Changes" comment="addad suraDetails screen&#10;addad quran files">
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/100.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/101.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/102.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/103.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/104.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/105.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/106.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/107.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/108.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/109.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/110.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/111.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/112.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/113.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/114.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/27.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/28.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/29.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/30.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/31.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/32.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/33.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/34.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/35.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/36.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/37.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/38.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/39.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/40.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/41.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/42.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/43.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/44.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/45.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/46.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/47.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/48.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/49.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/50.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/51.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/52.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/53.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/54.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/55.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/56.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/57.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/58.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/59.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/60.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/61.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/62.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/63.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/64.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/65.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/66.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/67.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/68.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/69.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/70.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/71.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/72.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/73.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/74.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/75.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/76.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/77.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/78.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/79.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/80.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/81.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/82.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/83.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/84.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/85.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/86.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/87.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/88.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/89.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/90.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/91.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/92.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/93.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/94.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/95.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/96.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/97.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/98.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/99.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/islami/constants.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/islami/ui/suraDetails/SuraDetailsActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/islami/ui/suraDetails/versesAdapter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_back.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rounded_white_rectangle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_sura_details.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_sura_details.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_verse.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-land/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-w1240dp/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-w600dp/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Islami.app.androidTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Islami.app.androidTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Islami.app.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Islami.app.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Islami.app.unitTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Islami.app.unitTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/islami/ui/home/fragments/QuranFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/islami/ui/home/fragments/QuranFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_chapter_name.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_chapter_name.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="514d741d-0d95-444b-a440-a2021dc94a7a" name="Changes" comment="addad suraDetails screen&#10;addad quran files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -343,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661965263198</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="addad suraDetails screen&#10;addad quran files">
+      <created>1662150478300</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662150478300</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -351,7 +213,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="feature/quran-details-screen" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
