@@ -3,14 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/drawable/rounded_white_rectangle.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/activity_ahadeth.xml" value="0.21240942028985507" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/activity_sura_details.xml" value="0.16423357664233576" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/content_sura_details.xml" value="0.136" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/fragment_first.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/fragment_hadeth.xml" value="0.23854166666666668" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/fragment_quran.xml" value="0.2375" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/fragment_radio.xml" value="0.23854166666666668" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/fragment_tasbeh.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/item_Verse.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/item_chapter_name.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/item_verse.xml" value="0.264" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/menu/home_navigation.xml" value="0.23854166666666668" />
       </map>
     </option>
