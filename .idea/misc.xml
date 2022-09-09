@@ -4,20 +4,30 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/drawable/rounded_white_rectangle.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/activity_ahadeeth.xml" value="0.264" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/activity_ahadeeth_content_details.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/activity_ahadeeth_kotlin2.xml" value="0.13360507246376813" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/activity_ahadeth.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/activity_hadeeth_content_kotlin.xml" value="0.2" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/activity_hadeth_details.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/activity_mesbha.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/activity_sura_details.xml" value="0.16423357664233576" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/ahadeeth_item.xml" value="0.264" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/content_hadeth_details.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/content_sura_details.xml" value="0.136" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/fragment_first.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/fragment_hadeth.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/fragment_hadeth.xml" value="0.14979757085020243" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/fragment_quran.xml" value="0.2375" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/fragment_radio.xml" value="0.23854166666666668" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/fragment_tasbeh.xml" value="0.23854166666666668" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/item_Verse.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/item_chapter_name.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/item_hadeth_name.xml" value="0.24010416666666667" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/item_verse.xml" value="0.264" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/layout/item_verse_hadeth.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/Islami/app/src/main/res/menu/home_navigation.xml" value="0.23854166666666668" />
       </map>
     </option>

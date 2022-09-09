@@ -14,9 +14,11 @@ import com.google.android.material.navigation.NavigationBarView
 
 class HomeActivity : AppCompatActivity() {
     lateinit var bottomNavigation : BottomNavigationView
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home)
+
         bottomNavigation=findViewById(R.id.bottom_navigation_bar)
 
         bottomNavigation.setOnItemSelectedListener (NavigationBarView.OnItemSelectedListener {

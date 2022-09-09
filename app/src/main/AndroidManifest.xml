@@ -14,14 +14,20 @@
         android:theme="@style/Theme.Islami"
         tools:targetApi="31">
         <activity
+            android:name=".ui.hadethDetails.HadethDetailsActivity"
+            android:exported="true"
+            android:label="@string/title_activity_hadeth_details"
+            android:parentActivityName=".ui.home.HomeActivity"
+            android:theme="@style/Theme.Islami.NoActionBar" />
+
+        <activity
             android:name=".ui.suraDetails.SuraDetailsActivity"
             android:exported="true"
-            android:parentActivityName=".ui.home.HomeActivity"
             android:label="@string/title_activity_sura_details"
+            android:parentActivityName=".ui.home.HomeActivity"
             android:theme="@style/Theme.Islami.NoActionBar" />
-        <activity
-            android:name=".AhadethActivity"
-            android:exported="false" />
+
+
         <activity
             android:name=".ui.home.HomeActivity"
             android:exported="false"

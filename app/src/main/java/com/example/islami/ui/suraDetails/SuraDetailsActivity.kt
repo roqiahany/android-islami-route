@@ -24,9 +24,9 @@ class SuraDetailsActivity : AppCompatActivity() {
         titleTextView =findViewById(R.id.title_text_view)
         initRecyclerView()
        val suraName:String = intent.getStringExtra(constants.Extra_Sura_Name) as String
-        val surapos:Int =intent.getIntExtra(constants.Extra_Sura_pos,-1)
+        val suraPos:Int =intent.getIntExtra(constants.Extra_Sura_pos,-1)
         titleTextView.setText(suraName)
-        readSuraFile(surapos)
+        readSuraFile(suraPos)
 
 
     }
